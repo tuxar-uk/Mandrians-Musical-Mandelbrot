@@ -1,4 +1,4 @@
-# Mandrians-Musical-Mandelbrot
+# Mandrians Musical Mandelbrot
 A Python + Pygame program to render the Mandelbrot Set by sub-dividing square areas into sub-squares.
 If the square's corners all have the same iteration count from the escape function we assume there's no internal
 detail to render. We also use the iteration count to select an audio frequency and play a note. Colours are either
