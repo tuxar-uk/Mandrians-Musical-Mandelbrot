@@ -5,4 +5,4 @@ detail to render. We also use the iteration count to select an audio frequency a
 tied to the iteration count, or are random. The squares may be bordered. The effect is a little similar to
 Mondrian's paintings. The program's name is a portmanteau of Mandelbrot and Mondrian.
 See http://fractalart.gallery/mandrians-mandelbrot-music/ for pictures, more information, and a YouTube video where
-you can hear the 'music' (souind quality not great).
+you can hear the 'music' (sound quality not great).
